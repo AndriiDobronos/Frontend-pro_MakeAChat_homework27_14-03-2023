@@ -1,0 +1,9 @@
+
+.idea/
+node_modules/
+tasks/
+Framework/
+client/
+index.mjs
+validator.js
+validators.copy_test.js
